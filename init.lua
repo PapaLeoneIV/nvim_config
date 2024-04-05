@@ -1,0 +1,2 @@
+require("ric")
+print("ciao")
